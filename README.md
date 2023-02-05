@@ -1,2 +1,2 @@
-# samp-mapping
-Some GTA:SA (SA-MP) Mapping
+# SA-MP Mapping
+Some cool GTA:SA (SA-MP) map-edits by MH11
